@@ -1,8 +1,9 @@
 # BitCoin
 <br>
 
-**Resources**: 
-    1.
+**Resources**: <br>
+
+    1. Satoshi Nakamoto's White Paper 
     2.
     3.
-    
+
