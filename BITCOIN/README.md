@@ -9,7 +9,7 @@
 
 <br>
 <br>
-**Topics discussed on 25 Nov.19:**
+#### **Topics discussed on 25 Nov.19:**
 <br>
     1. Cryptographic hash functions <br>
     2. Hash pointers <br>
