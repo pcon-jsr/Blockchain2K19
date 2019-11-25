@@ -13,12 +13,12 @@
 #### Topics discussed on 25 Nov.19:
 <br>
 
-    * Cryptographic hash functions <br>
-    * Hash pointers <br>
-    * Digital Signatures <br>
-    * Transaction Processing <br>
-    * Blockchain Network <br>
-    * Mining <br>
+    * Cryptographic hash functions 
+    * Hash pointers 
+    * Digital Signatures 
+    * Transaction Processing 
+    * Blockchain Network 
+    * Mining 
 
 <br>
 More will be updated soon.
