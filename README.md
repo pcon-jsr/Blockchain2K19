@@ -1,1 +1,1 @@
-### ** This repository contains different study materials and resources for different blockchains. **
+#### This repository contains different study materials and resources for different blockchains. 
