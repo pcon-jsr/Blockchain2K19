@@ -20,5 +20,6 @@
     * Blockchain Network 
     * Mining 
 
+For detailed reference: _Bitcoin and Cryptocurrency Technologies_
 <br>
 More will be updated soon.
