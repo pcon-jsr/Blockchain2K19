@@ -23,6 +23,7 @@
 
 #### Topics discussed on 26 Nov.19:
 <br>
+
     * Mining (cont.)
     * Transaction Flow
     * Advantages & Disadvantages
