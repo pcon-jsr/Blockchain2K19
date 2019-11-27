@@ -7,8 +7,7 @@
 
 ##### What is Blockchain Technology? A Step-by-Step Guide For Beginners.
 <br> 
-https://blockgeeks.com/guides/what-is-blockchain-technology/?utm_source=whatsapp&utm_medium=Social&utm_campaign=SocialWarfare
-
+https://blockgeeks.com/guides/what-is-blockchain-technology/
 ##### Blockchain: The Invisible Technology That's Changing the World
 <br>
 https://in.pcmag.com/amazon-web-services/112363/blockchain-the-invisible-technology-thats-changing-the-world
